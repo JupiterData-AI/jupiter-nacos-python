@@ -1,0 +1,8 @@
+requests
+fastapi
+uvicorn
+nacos-sdk-python
+python-dotenv
+circuitbreaker
+pydantic
+jupiter-nacos-client

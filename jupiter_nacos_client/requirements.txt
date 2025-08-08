@@ -1,0 +1,7 @@
+requests
+fastapi
+uvicorn
+nacos-sdk-python
+python-dotenv
+circuitbreaker
+pydantic
